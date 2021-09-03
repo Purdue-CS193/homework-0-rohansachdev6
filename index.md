@@ -1,4 +1,4 @@
-# <Rohan Sachdev>'s First CS 193 Homework
+# Rohan Sachdev's First CS 193 Homework
 
 - CS 193 is a class where the instructors are very understanding and help all students
 - CS 193 will give me an opportunity to code at another level
